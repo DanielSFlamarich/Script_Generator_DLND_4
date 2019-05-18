@@ -1,24 +1,13 @@
-# Script Generator
-Recurrent Neural Network as an example of a TV script generator.
+# Dog Breed App
+Recurrent Neural Network is used to generate a TV script.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Further Explanation
+The third project on neural networks in the udacity deep learning nanodegree, here recurrent neural networks are introduced. 
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
+- Python 3.7 notebook 
+- ```pytorch```
+- ```numpy```
+- ```pandas```
+- ```matplotlib```
+- ```torchvision```
