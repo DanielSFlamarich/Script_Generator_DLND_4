@@ -1,4 +1,4 @@
-# Dog Breed App
+# Script Generator
 Recurrent Neural Network is used to generate a TV script.
 
 ## Further Explanation
