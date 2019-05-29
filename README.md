@@ -3,7 +3,7 @@ Via a recurrent neural network, a fake Seinfeld TV script is generated. Data use
 
 
 ## Further Explanation
-The third project on neural networks in the udacity deep learning nanodegree, here recurrent neural networks are introduced. 
+The third project on neural networks in the udacity deep learning nanodegree, here recurrent neural networks are introduced.
 
 
 ## Sections
